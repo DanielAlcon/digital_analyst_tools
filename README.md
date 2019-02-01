@@ -1,3 +1,3 @@
-# tealium_web_companion
+# digital_analyst_tools
 
-Código para poder crear un marcador en el navegador y tener acceso rápido al Tealium Web Companion sin necesidad de instalar extensiones.
+Various tools to improve and enhance Digital Analyst workflow
